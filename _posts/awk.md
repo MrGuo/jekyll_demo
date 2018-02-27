@@ -1,3 +1,8 @@
+---
+layout: default
+title: awk
+---
+
 #awk#
 
 #示例#
